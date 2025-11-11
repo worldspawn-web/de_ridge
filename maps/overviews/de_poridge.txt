@@ -1,0 +1,12 @@
+// TAVR - AUTO RADAR. v 2.5.0a
+"de_poridge"
+{
+	"CTSpawn_x" "-3.240000"
+	"CTSpawn_y" "0.730000"
+	"TSpawn_x" "-3.100000"
+	"TSpawn_y" "0.170000"
+	"material" "overviews/de_poridge"
+	"pos_x" "4312.000000"
+	"pos_y" "-3548.000000"
+	"scale" "3.230000"
+}
