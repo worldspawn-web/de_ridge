@@ -1,4 +1,4 @@
-# de_ridge (by @WORLD158)
+# de_ridge (by @WORLD1588)
 
 A bomb defusal map for **CS Supremacy** (community-driven legacy CS:GO mod).
 
@@ -50,5 +50,5 @@ Feel free to open an issue on this repository or reach out directly.
 
 ## 🙏 Credits
 
-- **Map Author:** @WORLD158
+- **Map Author:** @WORLD1588
 - **Special Thanks:** @worldspawn-web — for helping with setting up the private GitHub repository and finding bugs.
